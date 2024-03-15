@@ -1,0 +1,14 @@
+C:\Users\anchiforov\cisharp\mdl1\mdl1\bin\Debug\netcoreapp3.1\mdl1.exe
+C:\Users\anchiforov\cisharp\mdl1\mdl1\bin\Debug\netcoreapp3.1\mdl1.deps.json
+C:\Users\anchiforov\cisharp\mdl1\mdl1\bin\Debug\netcoreapp3.1\mdl1.runtimeconfig.json
+C:\Users\anchiforov\cisharp\mdl1\mdl1\bin\Debug\netcoreapp3.1\mdl1.runtimeconfig.dev.json
+C:\Users\anchiforov\cisharp\mdl1\mdl1\bin\Debug\netcoreapp3.1\mdl1.dll
+C:\Users\anchiforov\cisharp\mdl1\mdl1\bin\Debug\netcoreapp3.1\mdl1.pdb
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.csproj.AssemblyReference.cache
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.AssemblyInfoInputs.cache
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.AssemblyInfo.cs
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.csproj.CoreCompileInputs.cache
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.dll
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.pdb
+C:\Users\anchiforov\cisharp\mdl1\mdl1\obj\Debug\netcoreapp3.1\mdl1.genruntimeconfig.cache
